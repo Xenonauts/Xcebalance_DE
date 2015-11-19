@@ -6,5 +6,9 @@ Die Aktivierung dieser Modifikation wird für ein optimales Spielerlebnis von X:
 Die Modifikationen **X:CE Balance Adjustments** und **X:CE Base Mod** werden für diese Modifikation benötigt.
 
 ###Autoren:
-PaulJay (Übersetzer)
+- **PaulJay** (Übersetzer)
+- **GoethesFaust** (Review)
+
+###Installation:
+Zur Installation der Übersetzung entpacken Sie bitte die Archivierungsdatei nach *assets/mods* im Spielverzeichnis und benennen Sie den extrahierten Ordner in *'xcebalance (DE)'* um. Anschließend benutzen Sie, bitte, den Mod Manager (Dieser ist im Launcher unter der Bezeichnung '*Modding Tools*' zu finden) um die Übersetzung zu aktivieren. Falls nicht automatisch geschehen, stellen Sie am Ende sicher, dass die Übersetzung vor der Modifikation **X:CE Balance Adjustments** gesetzt ist. Korrigieren Sie dies gegebenfalls durch das Klicken auf den *'Move Up'*-Button nach.
 
